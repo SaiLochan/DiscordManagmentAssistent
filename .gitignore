@@ -1,0 +1,15 @@
+# Bot token and credentials
+*.env
+config.json
+credentials.json
+
+# Go files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+mainfirst.go
+vendor/
